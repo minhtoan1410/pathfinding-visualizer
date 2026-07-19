@@ -6,7 +6,7 @@ export const ClearObstacles = () => {
   return (
     <button
       onClick={clearObstacles}
-      className="px-4 py-2 bg-red-500 text-white rounded hover:bg-red-600 transition"
+      className="px-4 py-2  text-white rounded hover:bg-red-600 transition bg-red-500"
     >
       Clear Obstacles
     </button>
