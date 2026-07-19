@@ -1,5 +1,3 @@
-// components/ClearObstacles.tsx
-
 import { useMaze } from "../../context/MazeContext/useMaze";
 
 export const ClearObstacles = () => {
